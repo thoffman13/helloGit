@@ -10,7 +10,7 @@ public class Hello {
 	
 	public static void main (String args []) {
 		
-		System.out.println("Trevor Hoffman\n");
-		
+		System.out.println("Trevor Hoffman");
+		System.out.println("Computer Science");
 	}
 }
