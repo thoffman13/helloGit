@@ -12,5 +12,7 @@ public class Hello {
 		
 		System.out.println("Trevor Hoffman");
 		System.out.println("Computer Science");
+		System.out.println("Ben Fritz");
+		System.out.println("Software Engineering");
 	}
 }
